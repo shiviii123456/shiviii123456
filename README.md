@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Node ,CSS**
 
-- 👯 I’m looking to collaborate on **React/Vue/Vanilla Projects**
+- 👯 I’m looking to collaborate on **Node Projects**
 
 ## ✍ My Work
 
